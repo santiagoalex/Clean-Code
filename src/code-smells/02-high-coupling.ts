@@ -64,7 +64,7 @@ class UserSettings extends User {
         'fernando@google.com',
         'F',
         'Fernando',
-        it'Herrera',
+        'Herrera',
         'M',
         new Date('1985-10-21')
     );

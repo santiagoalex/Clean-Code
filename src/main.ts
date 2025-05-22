@@ -1,6 +1,6 @@
 import './style.css'
 // import './clean-code/08-tarea'
-import './solid/03-liskov-a'
+import './solid/05-dependency-a'
 
 
 
